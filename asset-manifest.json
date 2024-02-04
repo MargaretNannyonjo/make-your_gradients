@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make-your_gradients/static/css/main.4b3628dd.css",
+    "main.js": "/make-your_gradients/static/js/main.f50b294f.js",
+    "index.html": "/make-your_gradients/index.html",
+    "main.4b3628dd.css.map": "/make-your_gradients/static/css/main.4b3628dd.css.map",
+    "main.f50b294f.js.map": "/make-your_gradients/static/js/main.f50b294f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3628dd.css",
+    "static/js/main.f50b294f.js"
+  ]
+}
